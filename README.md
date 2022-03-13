@@ -14,6 +14,7 @@ As you can see below most bikes start from stations in Manhattan.
 
 
 
+
 Most rides also conclude in Manhattan.
 ![image](https://user-images.githubusercontent.com/91395269/158083532-a8bb2d83-729b-4ec9-91f3-6016e00ceadd.png)
 
